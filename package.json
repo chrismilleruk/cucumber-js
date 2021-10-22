@@ -72,7 +72,7 @@
     "node": "0.8 || 0.10 || 0.11"
   },
   "dependencies": {
-    "browserify": "5.11.1",
+    "browserify": "12.0.0",
     "coffee-script": "1.8.0",
     "cucumber-html": "0.2.3",
     "gherkin": "2.12.2",
