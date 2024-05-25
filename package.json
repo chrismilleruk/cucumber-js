@@ -186,7 +186,7 @@
     "duration": "^0.2.2",
     "durations": "^3.4.2",
     "figures": "^3.2.0",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "indent-string": "^4.0.0",
     "is-generator": "^1.0.3",
     "is-stream": "^2.0.0",
@@ -199,7 +199,7 @@
     "stack-chain": "^2.0.0",
     "stacktrace-js": "^2.0.2",
     "string-argv": "^0.3.1",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.2",
     "util-arity": "^1.1.0",
     "verror": "^1.10.0"
   },
